@@ -6,7 +6,7 @@ Bytecode verification proof for **TheLuckyOne** - an on-chain lottery contract f
 
 | Field | Value |
 |-------|-------|
-| Address | [`0x2adfc2febf51d75d195ccd903251c099fdd22f20`](https://etherscan.io/address/0x2adfc2febf51d75d195ccd903251c099fdd22f20) |
+| Address | [`0x2adfc2febf51d75d195ccd903251c099fdd22f20`](https://www.ethereumhistory.com/contract/0x2adfc2febf51d75d195ccd903251c099fdd22f20) |
 | Block | 310,456 |
 | Date | October 1, 2015 |
 | ETH Balance | 56.83 ETH (locked) |
